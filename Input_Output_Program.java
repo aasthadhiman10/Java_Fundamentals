@@ -8,5 +8,6 @@ public class Input_Output_Program {
         String name = sc.nextLine();
             System.out.print("Your Name is : " + name );
 
+        sc.close();
     }    
 }
